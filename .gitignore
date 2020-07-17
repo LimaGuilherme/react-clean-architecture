@@ -1,0 +1,13 @@
+ *.py[cod]
+.Python
+.k_coverage/
+.idea/
+.node_modules
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+pytest_cache
+coverage.xml
+.coveralls.yml
+.env*
